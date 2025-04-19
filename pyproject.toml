@@ -1,0 +1,7 @@
+[project]
+name = "modelcraft-expedition"
+version = "0.1.0"
+description = "Documenting my journey implementing various AI architectures and algorithms from scratch"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
